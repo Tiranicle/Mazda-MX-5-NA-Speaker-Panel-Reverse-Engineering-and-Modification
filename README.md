@@ -98,7 +98,7 @@ The front face of the scanned part varied in height at all points, initially it 
 
 ![P11 sliced sketch, loft operation, final part](images/P11.png)
 
-A three points around the speaker grill plastics were used to create a plane approximate to the speakers direction. A sketch was created on this plane and various circles with the same center point were created and aligned with the circular features on the part. This process allowed the center of the speaker to be found. Using the same center point another circle was created and cut from the part to fit the “x” inch speakers.
+A three points around the speaker grill plastics were used to create a plane approximate to the speakers direction. A sketch was created on this plane and various circles with the same center point were created and aligned with the circular features on the part. This process allowed the center of the speaker to be found. Using the same center point another circle was created and cut from the part to fit the 6 inch speakers.
 
 ![P12 plane, sketch, final](images/P12.png)
 
