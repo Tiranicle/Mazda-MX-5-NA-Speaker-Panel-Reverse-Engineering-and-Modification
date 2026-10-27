@@ -113,7 +113,7 @@ A test print with PLA was conducted to ensure the part was within tolerance befo
 
 ![P14 layer lines closeup, tags on print close up, final finished image](images/P14.png)
 
-##### Conclusion
+## Conclusion
 
 This project was a great learning experience, if I were to attempt it again I would be able to significantly reduce the time spent and further develop processes for reverse engineering. I was challenged with hardware and software I was unfamiliar with and discovered more capabilities within the software I have been using for a few years. The documentation has been a difficult process, managing my expectations, motivation and the scope of the project. Overall I believe the this reflection has improved my critical thinking and I have retained more of the knowledge I learnt in the project. I wish to continue these and further develop the process of reflection with future projects.
 
