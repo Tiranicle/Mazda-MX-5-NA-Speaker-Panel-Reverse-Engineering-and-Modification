@@ -1,10 +1,6 @@
 ## Mazda MX-5 NA Speaker Panel Reverse Engineering and Modification
 
----
-
 A Reflection of the reverse engineering process of the speaker panels on the 1990s Mazda MX-5 NA.
-
-### Table of Contents
 
 ### Aim
 
@@ -26,8 +22,6 @@ A Reflection of the reverse engineering process of the speaker panels on the 199
 - 3D Printer: [Ender-3 S1 Plus](https://www.creality.com/products/creality-ender-3-s1-plus-3d-printer)
 
 ## Scanning
-
----
 
 The overall priority was obtain the rough shape of the panel using the 3D scanner and software. Reducing the amount of conceptual knowledge required and time taken to produce a workable result.
 
@@ -65,7 +59,6 @@ The scanner was having issues with the grill due to pass through of the lasers. 
 
 ![P7 grill closeup and reduced mesh](images/P7.png)
 
-
 ##### Results & Conclusion
 
 The resulting scan turned out well with majority of the geometry required. Extra photos and measurements were required in the modelling process.
@@ -73,8 +66,6 @@ The resulting scan turned out well with majority of the geometry required. Extra
 The excess number of triangles in an unimportant region caused the modeling within fusion 360 to throttle and have large processing times. Covering or removing the grill before scanning the part may be a better option in the future. Although the aim was to create a rough scan of the object not a detailed one. it is would be beneficial in the future to learn and use the local area scan option within the software to improve the details of complex parts.
 
 ## Reverse Engineering and modification
-
----
 
 The priority in this section was to create a 3D printable version of the panel and fix areas of the 3D model that were not scanned correctly. Additionally modify the center of the panel to allow for the fitment of a larger speaker, modify certain sections of the design to improve print-ability and functionality.
 
@@ -108,10 +99,7 @@ The final model turned out well enough with no major issues. Improvements could 
 
 ## 3D printing
 
----
-
 To produce an aesthetically pleasing part, with little need for cleaning and finishing able to withstand the environment of a modern day vehicle.
-
 
 ##### Printer Modifications
 
